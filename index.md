@@ -11,3 +11,6 @@ title: BioDiversiConomy
   participation and open-source principles, distinctively acknowledging the
   complex interplay between technological advancements and environmental
   sustainability.
+
+  ![Stamen](./assets/images/stamen.jpg)
+  
