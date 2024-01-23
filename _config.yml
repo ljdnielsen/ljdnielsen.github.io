@@ -1,4 +1,31 @@
-title: [BioDiversiConomy]
+# Site settings
+title: Your Site Title
+description: A brief description of your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: minima # or another theme, if you're using a Jekyll theme
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-include: ["./styles.css"]
+  - jekyll-feed # example plugin, you can add more as needed
+
+# Optional settings
+author: Your Name
+email: your-email@example.com
+
+# Exclude from processing
+# Any file or folder that should not be processed by Jekyll. For example:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# If you're using any additional plugins, you can add them here
+# For example, if you're using 'jekyll-seo-tag' for SEO enhancements:
+# plugins:
+#   - jekyll-seo-tag
