@@ -16,12 +16,10 @@
             padding: 10px 0;
             text-align: left;
         }
-        .header-link {
+        .header-link h1, .header-link h2 {
             text-decoration: none;
             color:white;
             font-family: 'Times New Roman', Times, serif;
-        }
-        .header-link h1, .header-link h2 {
             display: inline;
             text-align: left;
         }
@@ -29,8 +27,8 @@
 </head>
 <body>
     <header>
-        <a href="{{ site.baseurl}}/" class="header-link"><h2>Lasse J.D. Nielsen</h2></a>
-        <a href="{{ site.baseurl}}/" class="header-link"><h1>Conservation Geneticist</h1></a>
+        <h2><a href="{{ site.baseurl}}/" class="header-link"><h2>Lasse J.D. Nielsen</a></h2>
+        <h1><a href="{{ site.baseurl}}/" class="header-link">Conservation Geneticist</a></h1>
     </header>
     {{ content }}
 </body>
