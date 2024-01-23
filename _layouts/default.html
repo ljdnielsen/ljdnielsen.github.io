@@ -14,22 +14,31 @@
         }
         header {
             background-color: brown;
-            padding: 10px 0;
+            padding: 10px 5px;
             text-align: left;
         }
-        .header-link {
+        .header-link h1{
             text-decoration: none;
             color:white;
             font-family: 'Times New Roman', Times, serif;
             display: inline;
             text-align: left;
+            font-size: larger;
+        }
+        .header-link h2{
+            text-decoration: none;
+            color:white;
+            font-family: 'Times New Roman', Times, serif;
+            display: inline;
+            text-align: left;
+            font-size: medium;
         }
     </style>
 </head>
 <body>
     <header>
-        <a href="{{ site.baseurl}}/" class="header-link">Lasse J.D. Nielsen</a>
-        <a href="{{ site.baseurl}}/" class="header-link">Conservation Geneticist</a>
+        <a href="{{ site.baseurl}}/" class="header-link h2">Lasse J.D. Nielsen</a>
+        <a href="{{ site.baseurl}}/" class="header-link h1">Conservation Geneticist</a>
     </header>
     {{ content }}
 </body>
