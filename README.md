@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="./stylecss">
 
 ## BRINGING GENOMICS TO NATURALISTS
 BioDiversiconomy focuses on fostering financial incentives for nature conservation and restoration, while widely democratizing access to
