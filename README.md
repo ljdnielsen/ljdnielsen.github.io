@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <link rel="stylesheet" href="./styles.css">
 
 ## BRINGING GENOMICS TO NATURALISTS
