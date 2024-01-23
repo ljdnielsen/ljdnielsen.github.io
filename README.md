@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/styles.css">
+
 ## BRINGING GENOMICS TO NATURALISTS
 BioDiversiconomy focuses on fostering financial incentives for nature conservation and restoration, while widely democratizing access to
 biotechnologies. It aims to enhance biological diversity through community
