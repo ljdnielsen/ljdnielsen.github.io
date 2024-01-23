@@ -17,12 +17,15 @@
             padding: 15px 10px;
             text-align: left;
         }
+        .header-container {
+            text-align: left;
+        }
         .header-link {
             text-decoration: none;
             color:white;
             font-family: 'Times New Roman', Times, serif;
-            text-align: left;
             display: block;
+            text-align: center;
         }
         .header-link.name {
             font-size: medium;
@@ -34,8 +37,10 @@
 </head>
 <body>
     <header>
-        <a href="{{ site.baseurl}}/" class="header-link name">Lasse J.D. Nielsen</a>
-        <a href="{{ site.baseurl}}/" class="header-link title">Conservation Geneticist</a>
+        <div class="header-container">
+            <a href="{{ site.baseurl}}/" class="header-link name">Lasse J.D. Nielsen</a>
+            <a href="{{ site.baseurl}}/" class="header-link title">Conservation Geneticist</a>
+        </div>
     </header>
     {{ content }}
 </body>
