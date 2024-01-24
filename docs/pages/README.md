@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 🕊🌿 Pigeon Conservation
 
 This bioinformatics project is dedicated to the conservation of pigeon species, particularly focussing on the Indo-Pacific Columbiformes. Utilizing comprehensive data analysis, detailed research notes, and innovative methods, this project aims to study and conserve pigeon populations. We employ Python and R for robust data processing and analysis, and invite collaboration and contributions from anyone interested.
