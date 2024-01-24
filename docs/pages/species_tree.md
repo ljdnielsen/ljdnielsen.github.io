@@ -108,8 +108,7 @@ savetrees file=processed/mitochondria_tree.nexus brlens=yes
 
 The tree labels and color were modified in FigTree (v1.4.4), resulting in the mitogenome tree shown below, with number of nucleotide changes along each branch:
 
-<!--Increase DPI and make bottem left branch red like the rest of the tree-->
-![Mitochondrial Maximum Parsimony Tree](../../results/figures/mitochondria_tree.species_names.orange.png)
+![Mitochondrial Maximum Parsimony Tree](../images/mitochondria_tree.species_names.orange.png)
 
 ## Maximum Parsimony Tree of Cytochrome C Oxidase Subunits
 
@@ -166,7 +165,7 @@ To align the concatenated cytochrome c oxidase subunits of each reference genome
 
     We added species names to the leaf nodes and colored the tree in FigTree (v1.4.4), resulting in the tree below.
 
-![COX Subunits Maximum Parsimony Tree](../../results/figures/cox_subunits.tree.species_names.orange.png)
+![COX Subunits Maximum Parsimony Tree](../images/cox_subunits.tree.species_names.orange.png)
 
 ## Comparative Analysis of Phylogenetic Trees
 
@@ -248,11 +247,11 @@ To asses the phylogenetic signal of Cytochrome B, we also made a maximum parsimo
     
     We exchanged the accession numbers at the leaf nodes with the species names manually using FigTree (v1.4.4). The resulting tree is displayed below.
 
-![Cytochrome B Max. Parsimony Tree](../../results/figures/cytb.tree.species_names.orange.png)
+![Cytochrome B Max. Parsimony Tree](../images/cytb.tree.species_names.orange.png)
 
 Comparing the Cytochrome B tree with the two others, we note that it disagrees in the placement of Didunculus strigirostris by placing it as a sister species to Caloenas nicobarica. We also note that the Cytochrome B tree is the least parsimonious tree, with the highest HI at 0.285 (compared to 0.2805 for the COX subunits tree and 0.2715 for the full mitochondrial tree). And, we note that all three trees dileneate the Goura species in the same way.
 
-Return to [README](../../README.md).
+Continue to [Sample Origins](./sample_origins.md).
 
 [^1]: Bruxaux, Jade et al. (2018), ["Recovering the evolutionary history of crowned pigeons (Columbidae: Goura): Implications for the biogeography and conservation of New Guinean lowland birds"](https://www.sciencedirect.com/science/article/abs/pii/S1055790317308679) *Molecular Phylogenetics and Evolution*, 2018: vol. 120, pp. 248-258.
 

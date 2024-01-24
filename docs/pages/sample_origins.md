@@ -28,12 +28,11 @@ Post-extraction, the data was organized in Excel. Key findings include:
 To visualize the geographical and temporal extent of the collected specimen we plotted them according to collection date and species. This was done with the jupyter notebook [metadata_plot.ipynb](../../src/analysis/metadata_plot.ipynb).
 This resulted in the following plot:
 
-![Specimen Collections Over Years by Location](../../results/figures/specimen_by_year_location.png)
+![Specimen Collections Over Years by Location](../images/specimen_by_year_location.png)
 
-<!--Is the Goura cristata minor genetically a cristata and where is Salawatt?-->
 The four Goura locations were marked on a map of New Guinea and Raja Ampat, shown below, with the jupyter notebook [new_guinea_raja_ampat.ipynb](../../src/analysis/new_guinea_raja_ampat.ipynb):
 
-![Sampling Locations on & Around New Guinea](../../results/figures/new_guinea_raja_ampat.png)
+![Sampling Locations on & Around New Guinea](../images/new_guinea_raja_ampat.png)
 
 ### Interpretation of Geographical Distribution Pattern
 
@@ -45,7 +44,7 @@ In our study, the most recent mitochondrial genome sequences for Goura species i
 
 To more clearly visualize the geographical distribution of *Goura cristata* we plottet the particular sampling locations as shown on the map below of western New Guinea and the Raja Ampat Islands made using the notebook [g_cristata_sampling_sites.ipynb](../../src/analysis/g_cristata_sampling_sites.ipynb).
 
-![Raja Ampat and Birdshead Peninsula, G. cristata Sites](../../results/figures/g_cristata_sampling_sites.png)
+![Raja Ampat and Birdshead Peninsula, G. cristata Sites](../images/g_cristata_sampling_sites.png)
 
 ## Historical Context of the First Goura Specimen
 
@@ -73,7 +72,7 @@ quick as possible.
 
 The vast contribution that Allen made to specimen collection is made clear by Rookmaaker's and van Wyhe's recounting that he in a two-and-a-half month period between 4 August and 18 October 1855 collected 6198 insects<!--TODO: Add information about the rate at which Allen collected birds-->, corresponding to more than a hundred individuals per day, only a year after arriving in the Malay Archipelago.[^2]
 
-Return to [README](../../README.md).
+Continue to [Population Subdivision](./population_subdivision.md).
 
 [^1]: Bruxaux, Jade et al. (2018), ["Recovering the evolutionary history of crowned pigeons (Columbidae: Goura): Implications for the biogeography and conservation of New Guinean lowland birds"](https://www.sciencedirect.com/science/article/abs/pii/S1055790317308679) *Molecular Phylogenetics and Evolution*, 2018: vol. 120, pp. 248-258.
 
