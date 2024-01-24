@@ -18,16 +18,10 @@
             color: darkgreen;
             font-weight: bold;
         }
-        h2, h3 {
-            color: black; /* Replace with your desired color */
-            font-family: Helvetica, sans-serif, Arial;
-            font-weight: bold;
-        }
         header {
             background-color: brown;
             padding: 30px;
             text-align: left;
-            width: 100%;
         }
         .header-container {
             text-align: left;
@@ -35,9 +29,8 @@
         }
         .header-link {
             text-decoration: none;
-            color:white;
+            color: white;
             font-family: Georgia, 'Times New Roman', Times, serif;
-            display: block;
         }
         .header-link.name {
             font-size: large;
@@ -47,41 +40,23 @@
             font-size: larger;
         }
         .image-block {
-            display: flex;
-            flex-direction: column;
-            margin-left: 10px;
-            margin-right: 10px;
+            margin: 10px 60px;
             position: relative;
         }
         .image-block img {
-            width: 100%; /* Adjust as needed */
-            height: auto; /* Maintain aspect ratio */
+            width: 100%;
+            height: auto;
         }
         .ribbon {
             position: absolute;
-            width: 100%;
-            background-color: brown; /* Ribbon color */
-            color: white; /* Text color */
-            padding: 10px;
+            width: calc(100% - 20px); /* Adjust for margin */
             bottom: 0;
-            margin-left: 10px;
-            margin-right: 10px;
-        }
-        .ribbon b {
-            font-weight: bold;
-            font-size: large;
+            left: 10px; /* Align with image margin */
+            background-color: brown;
+            color: white;
+            padding: 10px;
             text-align: center;
         }
-        .ribbon span {
-            font-size: large;
-            color:rgb(190, 138, 138);
-        }
-        .image-block-container {
-            display: flex;
-            margin-left: 60px;
-            margin-right: 60px;
-        }
-
     </style>
 </head>
 <body>
@@ -94,7 +69,7 @@
     <div class="main-content">
         {{ content }}
     </div>
-    <div class="image-block-container">
+    <div>
         <div class="image-block">
             <a href="/docs/pages/pigeon_conservation/README">
                 <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
