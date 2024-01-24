@@ -49,34 +49,19 @@
         .image-block {
             display: flex;
             flex-direction: column;
-            justify-content: flex-start;
-            align-items: stretch;
-            position: relative;
-            width: calc(50% - 40px);
             margin-left: 10px;
             margin-right: 10px;
-        }
-        .extra-padding .image-block {
-            padding-bottom: 140px;
         }
         .image-block img {
             width: 100%; /* Adjust as needed */
             height: auto; /* Maintain aspect ratio */
-            display: block;
         }
         .ribbon {
             position: absolute;
-            margin-top: -20px;
-            bottom: 0;
-            left: 0;
             width: 100%;
             background-color: brown; /* Ribbon color */
             color: white; /* Text color */
             padding: 10px;
-            box-sizing: border-box;
-        }
-        .extra-overlap .ribbon {
-            margin-top: -40px;
         }
         .ribbon b {
             font-weight: bold;
@@ -89,10 +74,8 @@
         }
         .image-block-container {
             display: flex;
-            justify-content: space-between; /* This will add space between the items */
-            align-items: flex-start; /* Aligns items at the start of the container */
-            margin-left: 80px;
-            margin-right: 80px;
+            margin-left: 60px;
+            margin-right: 60px;
         }
 
     </style>
@@ -108,7 +91,7 @@
         {{ content }}
     </div>
     <div class="image-block-container">
-        <div class="image-block extra-padding">
+        <div class="image-block">
             <a href="/docs/pages/pigeon_conservation/README">
                 <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
                 <div class="ribbon">
@@ -122,7 +105,7 @@
                 </div>
             </a>
         </div>
-        <div class="image-block extra-overlap">
+        <div class="image-block">
             <a href="/docs/pages/amplicon_taxonomics/README">
                 <img src="../docs/images/enhanced_specificity_of_bacillus_metataxonomics.png" alt="Crown Pigeon">
                 <div class="ribbon">
