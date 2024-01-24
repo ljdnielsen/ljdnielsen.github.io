@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Data Acquisition
 
 ## Overview of Genome Selection Methodology

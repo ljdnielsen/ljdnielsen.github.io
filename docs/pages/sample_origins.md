@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Origins of Mitochondrial Genomes
 
 ## Overview

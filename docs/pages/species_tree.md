@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Species Tree
 
 ## Overview of Tree Reconstruction

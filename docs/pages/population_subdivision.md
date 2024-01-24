@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Population Subdivision
 
 ## Consensus Tree of Goura Specimens from Cytochrome B
