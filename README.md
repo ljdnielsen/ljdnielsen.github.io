@@ -1,5 +1,3 @@
-# **Bringing Genomics to Naturalists**
+# **BRINGING GENOMICS TO NATURALISTS**
 
-## **Portfolio**
-
-### [Crown Pigeon Distribution](./docs/pages/README.md)
+## **PORTFOLIO**
