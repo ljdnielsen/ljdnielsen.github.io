@@ -48,14 +48,14 @@
         }
         .image-block {
             position: relative;
-            margin-left: 100px;
-            width: 33%;
-            padding-bottom: 80px;
+            text-align: center; /* Center the image */
         }
+
         .image-block img {
             width: 100%; /* Adjust as needed */
             height: auto; /* Maintain aspect ratio */
         }
+
         .ribbon {
             position: absolute;
             bottom: 0;
@@ -64,14 +64,12 @@
             background-color: brown; /* Ribbon color */
             color: white; /* Text color */
         }
+
         .ribbon a {
             display: block;
             padding: 10px; /* Adjust for desired spacing */
             text-decoration: none;
             color: white; /* Link color */
-            font-size: large;
-            font-weight: bold;
-            margin-bottom: 5px;
         }
     </style>
 </head>
@@ -85,8 +83,11 @@
     <div class="main-content">
         {{ content }}
     </div>
-    <div>
-        <a href="./docs/pages/README.md">Link</a>
+    <div class="image-block">
+        <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
+        <div class="ribbon">
+            <a href="./docs/pages/README.md">Crown Pigeon Distribution</a>
+        </div>
     </div>
 </body>
 </html>
