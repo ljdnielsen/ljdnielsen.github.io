@@ -83,7 +83,7 @@
     <div class="main-content">
         {{ content }}
     </div>
-    {% if page.url == site.baseurl %}
+    {% if page.url == {{ site.baseurl}}/ %}
     <div class="image-block">
         <a href="/docs/pages/README">
             <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
