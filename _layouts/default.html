@@ -49,18 +49,22 @@
         .image-block {
             display: flex;
             flex-direction: column;
-            justify-content: flex-start; /* This will push the ribbon to the bottom */
+            justify-content: flex-start;
             align-items: stretch;
             position: relative;
             width: calc(50% - 40px);
+            /*padding-bottom: 140px; */
             margin-left: 10px;
             margin-right: 10px;
         }
         .image-block img {
-            width: 100%;
-            height: auto;
+            width: 100%; /* Adjust as needed */
+            height: auto; /* Maintain aspect ratio */
+            display: block;
         }
         .ribbon {
+            position: absolute;
+            bottom: 0;
             left: 0;
             width: 100%;
             background-color: brown; /* Ribbon color */
