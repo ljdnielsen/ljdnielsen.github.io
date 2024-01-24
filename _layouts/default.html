@@ -18,10 +18,16 @@
             color: darkgreen;
             font-weight: bold;
         }
+        h2, h3 {
+            color: black; /* Replace with your desired color */
+            font-family: Helvetica, sans-serif, Arial;
+            font-weight: bold;
+        }
         header {
             background-color: brown;
             padding: 30px;
             text-align: left;
+            width: 100%;
         }
         .header-container {
             text-align: left;
@@ -29,8 +35,9 @@
         }
         .header-link {
             text-decoration: none;
-            color: white;
+            color:white;
             font-family: Georgia, 'Times New Roman', Times, serif;
+            display: block;
         }
         .header-link.name {
             font-size: large;
@@ -40,22 +47,34 @@
             font-size: larger;
         }
         .image-block {
-            margin: 10px 60px;
             position: relative;
+            width: 33%;
+            padding-bottom: 140px;
+            margin-left: 80px;
         }
         .image-block img {
-            width: 100%;
-            height: auto;
+            width: 100%; /* Adjust as needed */
+            height: auto; /* Maintain aspect ratio */
+            display: block;
         }
         .ribbon {
             position: absolute;
-            width: calc(100% - 20px); /* Adjust for margin */
             bottom: 0;
-            left: 10px; /* Align with image margin */
-            background-color: brown;
-            color: white;
+            left: 0;
+            width: 100%;
+            background-color: brown; /* Ribbon color */
+            color: white; /* Text color */
             padding: 10px;
+            box-sizing: border-box;
+        }
+        .ribbon b {
+            font-weight: bold;
+            font-size: large;
             text-align: center;
+        }
+        .ribbon span {
+            font-size: large;
+            color:rgb(190, 138, 138);
         }
     </style>
 </head>
@@ -69,35 +88,33 @@
     <div class="main-content">
         {{ content }}
     </div>
-    <div>
-        <div class="image-block">
-            <a href="/docs/pages/pigeon_conservation/README">
-                <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
-                <div class="ribbon">
-                    <b>GEOGRAPHICAL AND HISTORICAL SUBDIVISION OF CROWN PIGEONS IN NEW GUINEA AND RAJA AMPAT</b>
-                    <br>
-                    <br>
-                    <span>By comparing the relatedness of crown pigeon museum specimens with when and where they were collected we describe the genetic subdivision of their populations across space and time.</span>
-                    <br>
-                    <br>
-                    <span>Read more ↪</span>
-                </div>
-            </a>
-        </div>
-        <div class="image-block">
-            <a href="/docs/pages/amplicon_taxonomics/README">
-                <img src="../docs/images/enhanced_specificity_of_bacillus_metataxonomics.png" alt="Crown Pigeon">
-                <div class="ribbon">
-                    <b>INCREASED RESOLUTION OF AMPLICON-BASED TAXONOMIC IDENTIFICATION APPROACH</b>
-                    <br>
-                    <br>
-                    <span>Instead of classifying environmental DNA of bacteria to species based on their 16S rRNA sequences, a comparison of public gene sequences can reveal which gene most accurately delineate species within a genus.</span>
-                    <br>
-                    <br>
-                    <span>Read more ↪</span>
-                </div>
-            </a>
-        </div>
+    <div class="image-block">
+        <a href="/docs/pages/pigeon_conservation/README">
+            <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
+            <div class="ribbon">
+                <b>GEOGRAPHICAL AND HISTORICAL SUBDIVISION OF CROWN PIGEONS IN NEW GUINEA AND RAJA AMPAT</b>
+                <br>
+                <br>
+                <span>By comparing the relatedness of crown pigeon museum specimens with when and where they were collected we describe the genetic subdivision of their populations across space and time.</span>
+                <br>
+                <br>
+                <span>Read more ↪</span>
+            </div>
+        </a>
+    </div>
+    <div class="image-block">
+        <a href="/docs/pages/amplicon_taxonomics/README">
+            <img src="../docs/images/enhanced_specificity_of_bacillus_metataxonomics.png" alt="Crown Pigeon">
+            <div class="ribbon">
+                <b>INCREASED RESOLUTION OF AMPLICON-BASED TAXONOMIC IDENTIFICATION APPROACH</b>
+                <br>
+                <br>
+                <span>Instead of classifying environmental DNA of bacteria to species based on their 16S rRNA sequences, a comparison of public gene sequences can reveal which gene most accurately delineate species within a genus.</span>
+                <br>
+                <br>
+                <span>Read more ↪</span>
+            </div>
+        </a>
     </div>
 </body>
 </html>
