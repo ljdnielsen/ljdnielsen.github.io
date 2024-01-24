@@ -47,7 +47,11 @@
             font-size: larger;
         }
         .image-block {
-            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: stretch;
+            /*position: relative;*/
             width: calc(50% - 40px);
             padding-bottom: 140px;
             margin-left: 20px;
@@ -59,6 +63,7 @@
             display: block;
         }
         .ribbon {
+            margin-top: auto;
             position: absolute;
             bottom: 0;
             left: 0;
