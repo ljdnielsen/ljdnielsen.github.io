@@ -2,4 +2,4 @@
 
 ## **Portfolio**
 
-### [Crown Pigeon Self-Study](./docs/pages/README.md)
+### [Crown Pigeon Distribution](./docs/pages/README.md)

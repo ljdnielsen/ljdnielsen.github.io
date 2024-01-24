@@ -24,7 +24,7 @@
         }
         .header-container {
             text-align: left;
-            margin-left: 100px;
+            margin-left: 150px;
         }
         .header-link {
             text-decoration: none;
@@ -39,6 +39,31 @@
         .header-link.title {
             font-size: larger;
         }
+        .image-block {
+            position: relative;
+            text-align: center; /* Center the image */
+        }
+
+        .image-block img {
+            width: 100%; /* Adjust as needed */
+            height: auto; /* Maintain aspect ratio */
+        }
+
+        .ribbon {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background-color: brown; /* Ribbon color */
+            color: white; /* Text color */
+        }
+
+        .ribbon a {
+            display: block;
+            padding: 10px; /* Adjust for desired spacing */
+            text-decoration: none;
+            color: white; /* Link color */
+        }
     </style>
 </head>
 <body>
@@ -50,6 +75,12 @@
     </header>
     <div class="main-content">
         {{ content }}
+    </div>
+    <div class="image-block">
+        <img src="../docs/images/g_cristata_sampling_sites.png" alt="Goura Cristata Sampling Sites">
+        <div class="ribbon">
+            <a href="./docs/pages/README.md">Crown Pigeon Distribution</a>
+        </div>
     </div>
 </body>
 </html>

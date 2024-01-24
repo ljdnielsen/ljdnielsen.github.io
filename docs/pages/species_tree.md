@@ -51,6 +51,7 @@ To infer the phylogenetic relationships between the nine species included in the
 
 4. **Assesment of Sequence Quality:**
     The number of 'N's in the reference sequences and whether they are linear or circular is listed in the table below:
+    
     |Species                 |Query Genome|# of 'N's* |Shape   |
     |------------------------|------------|-----------|--------|
     |Ectopistes migratorius  |NC_042502.1 |20 (0.12%) |linear  |
