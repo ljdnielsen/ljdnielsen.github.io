@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Conservation Geneticist | Lasse J. D. Nielsen</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: sans-serif, Arial, Helvetica;
+        }
+        .main-content {
+            margin-left: 150px;
+            margin-right: 150px;
+        }
+        h1 {
+            color: darkgreen;
+            font-weight: bold;
+        }
+        h2, h3 {
+            color: black; /* Replace with your desired color */
+            font-family: sans-serif, Arial, Helvetica;
+            font-weight: bold;
+        }
+        header {
+            background-color: brown;
+            padding: 30px;
+            text-align: left;
+            width: 100%;
+        }
+        .header-container {
+            text-align: left;
+            margin-left: 150px;
+        }
+        .header-link {
+            text-decoration: none;
+            color:white;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            display: block;
+        }
+        .header-link.name {
+            font-size: large;
+            margin-left: 60px;
+        }
+        .header-link.title {
+            font-size: larger;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <a href="{{ site.baseurl}}/" class="header-link name">Lasse J.D. Nielsen</a>
+            <a href="{{ site.baseurl}}/" class="header-link title">CONSERVATION GENETICIST</a>
+        </div>
+    </header>
+    <div class="main-content">
+        {{ content }}
+    </div>
+</body>
+</html>
