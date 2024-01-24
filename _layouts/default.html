@@ -63,7 +63,7 @@
             display: block;
         }
         .ribbon {
-            position: absolute;
+            margin-top: -20px;
             bottom: 0;
             left: 0;
             width: 100%;
@@ -71,6 +71,9 @@
             color: white; /* Text color */
             padding: 10px;
             box-sizing: border-box;
+        }
+        .extra-overlap .ribbon {
+            margin-top: -40px;
         }
         .ribbon b {
             font-weight: bold;
@@ -116,7 +119,7 @@
                 </div>
             </a>
         </div>
-        <div class="image-block">
+        <div class="image-block extra-overlap">
             <a href="/docs/pages/amplicon_taxonomics/README">
                 <img src="../docs/images/enhanced_specificity_of_bacillus_metataxonomics.png" alt="Crown Pigeon">
                 <div class="ribbon">
