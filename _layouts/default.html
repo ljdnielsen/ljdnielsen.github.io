@@ -49,13 +49,17 @@
         .image-block {
             position: relative;
             text-align: center; /* Center the image */
+            width: 33%;
+            padding-bottom: 80px;
         }
-
+        .image-black a{
+            text-decoration: none;
+        }
         .image-block img {
             width: 100%; /* Adjust as needed */
             height: auto; /* Maintain aspect ratio */
+            display: block;
         }
-
         .ribbon {
             position: absolute;
             bottom: 0;
@@ -63,13 +67,11 @@
             width: 100%;
             background-color: brown; /* Ribbon color */
             color: white; /* Text color */
+            padding: 10px;
         }
-
-        .ribbon a {
-            display: block;
-            padding: 10px; /* Adjust for desired spacing */
-            text-decoration: none;
-            color: white; /* Link color */
+        .ribbon b {
+            font-weight: bold;
+            font-size: large;
         }
     </style>
 </head>
@@ -84,10 +86,13 @@
         {{ content }}
     </div>
     <div class="image-block">
-        <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
-        <div class="ribbon">
-            <a href="/docs/pages/README">Crown Pigeon Distribution</a>
-        </div>
+        <a href="/docs/pages/README">
+            <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
+            <div class="ribbon">
+                <b>Crown Pigeon Distribution: Historical genomes can reveal population subdivision in space and time</b>
+                Read more ↪
+            </div>
+        </a>
     </div>
 </body>
 </html>

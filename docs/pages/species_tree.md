@@ -52,7 +52,7 @@ To infer the phylogenetic relationships between the nine species included in the
 4. **Assesment of Sequence Quality:**
     The number of 'N's in the reference sequences and whether they are linear or circular is listed in the table below:
     
-    |Species                 |Query Genome|# of 'N's* |Shape   |
+    |Species                 |Query Genome|# of 'N's |Shape   |
     |------------------------|------------|-----------|--------|
     |Ectopistes migratorius  |NC_042502.1 |20 (0.12%) |linear  |
     |Goura cristata          |NC_031865.1 |0          |circular|
@@ -63,7 +63,6 @@ To infer the phylogenetic relationships between the nine species included in the
     |Pezophaps solitaria     |KX902238.1  |261 (1.57%)|linear  |
     |Raphus cucullatus       |NC_031864.1 |0          |circular|
     |Didunculus strigirostris|NC_031866.1 |1 (0.01%)  |circular|
-    *Percentages are rounded to the nearest hundredth.
 
 ## Alignment of Mitochondrial Genomes Using MAFFT
 
