@@ -53,9 +53,11 @@
             align-items: stretch;
             position: relative;
             width: calc(50% - 40px);
-            /*padding-bottom: 140px; */
             margin-left: 10px;
             margin-right: 10px;
+        }
+        .extra-padding .image-block {
+            padding-bottom: 140px;
         }
         .image-block img {
             width: 100%; /* Adjust as needed */
@@ -106,7 +108,7 @@
         {{ content }}
     </div>
     <div class="image-block-container">
-        <div class="image-block">
+        <div class="image-block extra-padding">
             <a href="/docs/pages/pigeon_conservation/README">
                 <img src="../docs/images/g_cristata_sampling_sites.minimalistic.png" alt="Crown Pigeon">
                 <div class="ribbon">
