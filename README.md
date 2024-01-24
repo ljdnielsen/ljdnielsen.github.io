@@ -1,5 +1,5 @@
-# FACILITATING NATURE
+# **Bringing Genomics to Naturalists**
 
-## Portfolio
+## **Portfolio**
 
 ### [Crown Pigeon Self-Study](./docs/pages/README.md)
