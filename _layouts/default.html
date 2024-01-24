@@ -47,25 +47,20 @@
             font-size: larger;
         }
         .image-block {
-            height: 400px;
             display: flex;
             flex-direction: column;
-            justify-content: flex-start;
+            justify-content: space-between; /* This will push the ribbon to the bottom */
             align-items: stretch;
-            position: relative;
             width: calc(50% - 40px);
-            /*padding-bottom: 140px; */
             margin-left: 10px;
             margin-right: 10px;
         }
         .image-block img {
-            width: 100%; /* Adjust as needed */
-            height: auto; /* Maintain aspect ratio */
-            display: block;
+            flex-grow: 1;
+            width: 100%;
+            height: auto;
         }
         .ribbon {
-            position: absolute;
-            bottom: 0;
             left: 0;
             width: 100%;
             background-color: brown; /* Ribbon color */
