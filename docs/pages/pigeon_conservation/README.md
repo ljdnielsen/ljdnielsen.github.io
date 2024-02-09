@@ -12,20 +12,26 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
 
 ### Visual Documentation
 ![Mitogenome maximum parsimony tree](../../images/mitochondria_tree.species_names.orange.png)
-*Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference species of the species included in the analysis.*
 
-<img src="/docs/images/specimen_by_year_location.png" alt="Alt text for image" width="1000" height="auto"/>
+*Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference species of the species included in the analysis.*
+<p aling="center">
+    <img src="/docs/images/specimen_by_year_location.png" alt="Alt text for image" width="1000" height="auto"/>
+</p>
 
 *Figure 2: Timeline of specimen collection of crown pigeons, including the specimens of the related Nicobar pigoen (Caloenas nicobarica) and critically endangered tooth-billed pigeon (Didunculus strigirostris).*
 
 ![Map of New Guinea and Raja Ampat](../../images/new_guinea_raja_ampat.png)     
 *Figure 3: Map of New Guinea depicting the four greater regions of crown pigoen specimen origin, corresponding in color to the points on the timeline in Figure 2.*
 
-<img src="/docs/images/g_cristata_sampling_sites.png" alt="Alt text for image" width="500" height="auto"/>
+<p aling="center">
+    <img src="/docs/images/g_cristata_sampling_sites.png" alt="Alt text for image" width="500" height="auto"/>
+</p>
 
 *Figure 4: Detailed depiction of time-stamped Goura cristata sampling sites, including the oldest of the specimen included in the dataset, a Goura cristata collected by Alfred Russell Wallace assistant, Charles Martin Allen on Misool Island in 1860.*
 
-<img src="/docs/images/goura.cytb.tree.blue.200dpi.png" alt="Alt text for image" width="1000" height="auto"/>
+<p aling="center">
+    <img src="/docs/images/goura.cytb.tree.blue.200dpi.png" alt="Alt text for image" width="1000" height="auto"/>
+</p>
 
 *Figure 5: A Consensus tree based on cytochrome b, annotated with sampling year and location of specimens, revealing a subdivision between Goura sclaterii in the western part of New Guinea (Indonesia) and the eastern part (Papua New Guinea)*
 
