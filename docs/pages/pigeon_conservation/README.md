@@ -1,7 +1,7 @@
 ---
 layout: pages
 ---
-## Crown Pigoen Analysis
+<h1 align="center">Crown Pigeon Public Genomes</h1>
 
 ### Project Overview
 This project focuses on the genomic analysis of crown pigeons (genus *Goura*), employing historical and contemporary specimens to investigate their evolutionary history and current genetic subdivision. Through detailed genomic comparison, we aim to address gaps in our understanding of these species' geographical distribution and foremost, to illustrate the insights that can be gained from public data using open source software.
