@@ -20,7 +20,9 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
 
 *Figure 2: Timeline of specimen collection of crown pigeons, including the specimens of the related Nicobar pigoen (Caloenas nicobarica) and critically endangered tooth-billed pigeon (Didunculus strigirostris).*
 
-![Map of New Guinea and Raja Ampat](../../images/new_guinea_raja_ampat.png)     
+<p aling="center">
+    <img src="/docs/images/new_guinea_raja_ampat.png" alt="Alt text for image" width="500" height="auto"/>
+</p>
 *Figure 3: Map of New Guinea depicting the four greater regions of crown pigoen specimen origin, corresponding in color to the points on the timeline in Figure 2.*
 
 <p aling="center">
