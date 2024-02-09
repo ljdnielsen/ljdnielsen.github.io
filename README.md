@@ -2,7 +2,7 @@
 
 # **Bringing Genomics to Naturalists**
 
-### **Democratizing genomics tools, will enable collaboration on the preservation all lifeforms.**
+### **If everyone could easily analyze local genomes, the clear benefits of preserving unique genetic diversity would become self-evident.**
 <br>
 
 ## **PORTFOLIO**
