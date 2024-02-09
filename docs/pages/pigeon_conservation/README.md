@@ -21,7 +21,7 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
 ![Map of New Guinea and Raja Ampat](../../images/new_guinea_raja_ampat.png)     
 *Figure 3: Map of New Guinea depicting the four greater regions of crown pigoen specimen origin, corresponding in color to the points on the timeline in Figure 2.*
 
-<img src="/docs/images/g_cristata_sampling_sites.png" alt="Alt text for image" width="1000" height="auto"/>
+<img src="/docs/images/g_cristata_sampling_sites.png" alt="Alt text for image" width="500" height="auto"/>
 
 *Figure 4: Detailed depiction of time-stamped Goura cristata sampling sites, including the oldest of the specimen included in the dataset, a Goura cristata collected by Alfred Russell Wallace assistant, Charles Martin Allen on Misool Island in 1860.*
 
