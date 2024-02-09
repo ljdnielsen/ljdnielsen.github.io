@@ -2,7 +2,7 @@
 
 # **Bringing Genomics to Naturalists**
 
-### **By democratizing genomics tools, we can enable and incentivize collaboration around the preservation of the world's lifeforms and their variation.**
+### **By democratizing genomics tools, we can enable and incentivize broad collaboration on the preservation of our world's lifeforms.**
 <br>
 
 ## **PORTFOLIO**
