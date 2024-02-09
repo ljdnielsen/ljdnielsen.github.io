@@ -1,16 +1,15 @@
 ---
 layout: pages
 ---
-<h1 align="center">Crown Pigeon Public Genomes</h1>
+<h1 align="center">PUBLIC CROWN PIGOEN GENOMES</h1>
 
-### Project Overview
 This project focuses on the genomic analysis of crown pigeons (genus *Goura*), employing historical and contemporary specimens to investigate their evolutionary history and current genetic subdivision. Through detailed genomic comparison, we aim to address gaps in our understanding of these species' geographical distribution and foremost, to illustrate the insights that can be gained from public data using open source software.
 
-### Highlights
+### HIGHLIGHTS
 - **Geographical and Temporal Sampling Analysis**: We've identified significant gaps in the genomic sampling of crown pigeons, which has so far been contigent on specimen collection. This analysis lays out the historical context of future sampling schemes.
 - **Phylogenetic Analysis**: By placing mitogenomes phylogenetically we visualize the evolutionary context of crown pigeons and identify a case of geographical subdivision wihtin *Goura sclaterii*.
 
-### Visual Documentation
+### VISUAL DOCUMENTATION
 ![Mitogenome maximum parsimony tree](../../images/mitochondria_tree.species_names.orange.png)
 
 *Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference species of the species included in the analysis.*
@@ -37,7 +36,7 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
 
 *Figure 5: A Consensus tree based on cytochrome b, annotated with sampling year and location of specimens, revealing a subdivision between Goura sclaterii in the western part of New Guinea (Indonesia) and the eastern part (Papua New Guinea)*
 
-### Conclusion and Future Directions
+### FUTURE DIRECTIONS
 
 By leveraging public datasets and open source software we bridge various sources of data and aim to provide information for future management decisions.
 
