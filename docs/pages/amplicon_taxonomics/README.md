@@ -25,7 +25,7 @@ By comparing conserved genomic regions followed by variable regions across all k
 *Figure 2: Phylogenies based on in vitro PCR-derived amplicons from the tuf2 or 16S rRNA V3-V4 primer pairs compared with a whole genome multi-locus phylogeny. **A**, Phylogenetic tree based on sequenced tuf2 PCR-derived amplicons. **B**, Whole genome multi-locus phylogenetic tree. **C**, phylogenetic tree based on sequenced 16S rRNA V3-V4 primer pair-derived amplicons. The tree constructed from the alignment of the tuf2-derived amplicons corresponds better with the whole genome multi-locus tree than that based on the amplicons from the 16S rRNA V3-V4 primer pair.*
 
 <p aling="center">
-    <img src="/docs/images/dnamix_metataxonomic_identification_by_primer_pair.png" alt="Alt text for image" width="1000" height="auto"/>
+    <img src="/docs/images/dnamix_metataxonomic_identification_by_primer_pair.png" alt="Alt text for image" width="700" height="auto"/>
 </p>
 
 *Figure 3: Relative abundance and identity of PCR amplicons from a Bacillus DNA mix. The tuf2-based amplicons correctly identified DNA from 9 out of 11 species in the DNA mix. That number was 8 out of 11 species for gyrA, a primer pair specifically designed for delineating species of the Bacillus subtilis species complex, which includes many of the species included. 16S rRNA V3-V4 derived amplicons could identify 4 out of 11 species.*
