@@ -2,7 +2,7 @@
 
 # **Bringing Genomics to Naturalists**
 
-### **If everyone could easily analyze local genomes, the clear benefits of preserving unique genetic diversity would become self-evident.**
+### **Democratizing access to sequencing, modern breeding techniques and natural product discovery will allow people worldwide to engage with nature in new ways.**
 <br>
 
 ## **PORTFOLIO**
