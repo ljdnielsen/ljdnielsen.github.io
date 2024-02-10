@@ -14,7 +14,7 @@ This study examines environmental DNA (eDNA) from pig manure to map out and quan
 ### THE PROJECT IN IMAGES
 
 <p align="center">
-    <img src="/docs/images/snakemake_workflow.png" alt="Metagenomics pipeline overview" width="700" height="auto"/>
+    <img src="/docs/images/snakemake_workflow.png" alt="Metagenomics pipeline overview" width="400" height="auto"/>
 </p>
 
 *Figure 1: Overview of the metagenomics pipeline from raw reads through to taxonomical annotation and abundance mapping.*
