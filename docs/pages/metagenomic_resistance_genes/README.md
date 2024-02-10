@@ -14,19 +14,19 @@ This study examines environmental DNA (eDNA) from pig manure to map out and quan
 ### THE PROJECT IN IMAGES
 
 <p align="center">
-    <img src="/docs/images/snakemake_workflow.png" alt="Metagenomics pipeline overview" width="1000" height="auto"/>
+    <img src="/docs/images/snakemake_workflow.png" alt="Metagenomics pipeline overview" width="700" height="auto"/>
 </p>
 
 *Figure 1: Overview of the metagenomics pipeline from raw reads through to taxonomical annotation and abundance mapping.*
 
 <p align="center">
-    <img src="/docs/images/phylogenetic_placement_MAGs.png" alt="Phylogenetic placement of MAGs" width="800" height="auto"/>
+    <img src="/docs/images/phylogenetic_placement_MAGs.png" alt="Phylogenetic placement of MAGs" width="700" height="auto"/>
 </p>
 
 *Figure 2: Phylogenetic tree showing the placement of metagenome-assembled genomes (MAGs) within various bacterial phyla.*
 
 <p align="center">
-    <img src="/docs/images/AMR_gene_abundance.png" alt="AMR gene abundance" width="800" height="auto"/>
+    <img src="/docs/images/AMR_gene_abundance.png" alt="AMR gene abundance" width="500" height="auto"/>
 </p>
 *Figure 4: Relative abundance of antibiotic resistance gene classes, categorized by farm.*
 
