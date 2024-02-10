@@ -20,7 +20,7 @@ This study examines environmental DNA (eDNA) from pig manure to map out and quan
 *Figure 1: Overview of the metagenomics pipeline from raw reads through to taxonomical annotation and abundance mapping.*
 
 <p align="center">
-    <img src="/docs/images/phylogenetic_placement_MAGs.png" alt="Phylogenetic placement of MAGs" width="700" height="auto"/>
+    <img src="/docs/images/phylogenetic_placement_MAGs.png" alt="Phylogenetic placement of MAGs" width="500" height="auto"/>
 </p>
 
 *Figure 2: Phylogenetic tree showing the placement of metagenome-assembled genomes (MAGs) within various bacterial phyla.*
