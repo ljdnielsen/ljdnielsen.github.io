@@ -12,17 +12,17 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
 ### VISUAL DOCUMENTATION
 ![Mitogenome maximum parsimony tree](../../images/mitochondria_tree.species_names.orange.png)
 
-*Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference species of the species included in the analysis.*
+*Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference genome for each of the species included the study.*
 <p aling="center">
     <img src="/docs/images/specimen_by_year_location.png" alt="Alt text for image" width="1000" height="auto"/>
 </p>
 
-*Figure 2: Timeline of specimen collection of crown pigeons, including the specimens of the related Nicobar pigoen (Caloenas nicobarica) and critically endangered tooth-billed pigeon (Didunculus strigirostris).*
+*Figure 2: Timeline of specimen collection of crown pigeons, including the specimens of the related Nicobar pigeon (Caloenas nicobarica) and critically endangered tooth-billed pigeon (Didunculus strigirostris).*
 
 <p aling="center">
     <img src="/docs/images/new_guinea_raja_ampat.png" alt="Alt text for image" width="500" height="auto"/>
 </p>
-*Figure 3: Map of New Guinea depicting the four greater regions of crown pigoen specimen origin, corresponding in color to the points on the timeline in Figure 2.*
+*Figure 3: Map of New Guinea depicting the four greater regions of crown pigeon specimen origin, corresponding in color to the points on the timeline in Figure 2.*
 
 <p aling="center">
     <img src="/docs/images/g_cristata_sampling_sites.png" alt="Alt text for image" width="800" height="auto"/>
