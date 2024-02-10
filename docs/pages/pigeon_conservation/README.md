@@ -9,7 +9,7 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
 - **Geographical and Temporal Sampling Analysis**: We've identified significant gaps in the genomic sampling of crown pigeons, which has so far been contigent on specimen collection. This analysis lays out the historical context of future sampling schemes.
 - **Phylogenetic Analysis**: By placing mitogenomes phylogenetically we visualize the evolutionary context of crown pigeons and identify a case of geographical subdivision wihtin *Goura sclaterii*.
 
-### VISUAL DOCUMENTATION
+### THE PROJECT IN IMAGES
 ![Mitogenome maximum parsimony tree](../../images/mitochondria_tree.species_names.orange.png)
 
 *Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference genome for each of the species included the study.*
