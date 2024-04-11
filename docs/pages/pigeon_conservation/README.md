@@ -12,7 +12,7 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
 ### THE PROJECT IN IMAGES
 ![Mitogenome maximum parsimony tree](../../images/mitochondria_tree.species_names.orange.png)
 
-*Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference genome for each of the species included the study.*
+*Figure 1: Maximum parsimony tree based on full mitochondrial genomes of the reference genome for each of the species included in the study.*
 <p aling="center">
     <img src="/docs/images/specimen_by_year_location.png" alt="Alt text for image" width="1000" height="auto"/>
 </p>
