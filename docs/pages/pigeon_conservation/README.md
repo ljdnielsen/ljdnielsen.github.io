@@ -34,7 +34,7 @@ This project focuses on the genomic analysis of crown pigeons (genus *Goura*), e
     <img src="/docs/images/goura.cytb.tree.blue.200dpi.png" alt="Alt text for image" width="800" height="auto"/>
 </p>
 
-*Figure 5: A Consensus tree based on cytochrome b, annotated with sampling year and location of specimens, revealing a subdivision between Goura sclaterii in the western part of New Guinea (Indonesia) and the eastern part (Papua New Guinea)*
+*Figure 5: A Consensus tree based on cytochrome b, annotated with sampling year and location of specimens, revealing subdivision between Goura sclaterii in the western part of New Guinea (Indonesia) and the eastern part (Papua New Guinea) - bottom right corner of the figure.*
 
 ### FUTURE DIRECTIONS
 

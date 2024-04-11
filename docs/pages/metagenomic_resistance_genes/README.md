@@ -23,7 +23,7 @@ This study examines environmental DNA (eDNA) from pig manure to map out and quan
     <img src="/docs/images/phylogenetic_placement_MAGs.png" alt="Phylogenetic placement of MAGs" width="600" height="auto"/>
 </p>
 
-*Figure 2: Phylogenetic tree showing the placement of metagenome-assembled genomes (MAGs) within various bacterial phyla.*
+*Figure 2: Phylogenetic tree showing the placement of metagenome-assembled genomes (MAGs) within various bacterial phyla for each of the three farms, ERR2597535, ERR2597536, ERR2597537.*
 
 <p align="center">
     <img src="/docs/images/AMR_gene_abundance.png" alt="AMR gene abundance" width="500" height="auto"/>
