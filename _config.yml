@@ -2,7 +2,7 @@
 title: Conservation Genetics
 description: Bringing Genomics to Naturalists
 baseurl: "" # the subpath of your site, e.g., /blog
-url: "http://ljdnielsen.github.io" # the base hostname & protocol for your site
+url: "http://democratizinggenomics.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
