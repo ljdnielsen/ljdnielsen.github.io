@@ -1,8 +1,8 @@
 # Site settings
-title: Gene Flow Credits
-description: Incentivizing Ecosystem Connectivity
+title: Thylacine
+description: Learn about the history of the thylacine and the science of its de-extinction
 baseurl: "" # the subpath of your site, e.g., /blog
-url: "http://geneflowcredits.github.io" # the base hostname & protocol for your site
+url: "http://ljdnielsen.github.io/thylacine" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
