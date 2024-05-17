@@ -2,4 +2,5 @@
 layout: default
 ---
 
-![Natural History](../../../../thylacine/docs/images/header.natural_history.png)
+![Natural History]({{ site.baseurl }}/docs/images/header.natural_history.png)
+
