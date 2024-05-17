@@ -3,13 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title | default: site.title }}</title>
+    <style>
+        #sidebar img {
+            width: 140px;
+        }
+    </style>
 </head>
 <body>
-    <div id="sidebar" style="float: left; width: 150px; height: 100vh; background-color: #000;">
+    <div id="sidebar" style="float: left; width: 150px; height: 100vh; background-color: #ffffff;">
         <ul style="list-style: none; padding: 0;">
-            <li><a href="{{ site.baseurl }}/natural_history"><img src="/docs/images/side-bar_button.natural_history.png" alt="Natural History"></a></li>
-            <li><a href="{{ site.baseurl }}/development"><img src="{{ site.baseurl }}/assets/images/about.png" alt="About"></a></li>
-            <li><a href="{{ site.baseurl }}/evolution"><img src="{{ site.baseurl }}/assets/images/contact.png" alt="Contact"></a></li>
+            <li><a href="{{ site.baseurl }}/natural_history"><img src="../docs/images/side-bar_buttons.natural_history.png" alt="Ny"></a></li>
+            <li><a href="{{ site.baseurl }}/development"><img src="../docs/images/side-bar_buttons.development.png" alt="Development"></a></li>
+            <li><a href="{{ site.baseurl }}/evolution"><img src="../docs/images/side-bar_buttons.evolution.png" alt="Evolution"></a></li>
         </ul>
     </div>
     <div style="margin-left: 150px;">
