@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# Natural History
+![Natural History](docs/images/header.natural_history.png)
