@@ -1,5 +1,5 @@
 ---
-layout: Evolution
+layout: default
 ---
 
 # Evolution
