@@ -1,2 +1,5 @@
-# Thylacine Science
-Website for learning everything about the thylacine from its discovery to progress on its de-extinction.
+---
+layout: default
+---
+
+![Thylacine Science]({{ site.baseurl }}/docs/images/header.thylacine_science.png)
