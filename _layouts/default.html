@@ -27,6 +27,11 @@
             float: left;
             margin-right: 10px;
         }
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
     </style>
 </head>
 <body>
@@ -38,7 +43,7 @@
             <li><a href="{{ site.baseurl }}/docs/pages/evolution/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.evolution.png" alt="Evolution"></a></li>
         </ul>
     </div>
-    <div class="main-content">
+    <div class="main-content" class="clearfix">
         {{ content }}
     </div>
 </body>
