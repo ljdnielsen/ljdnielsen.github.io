@@ -14,11 +14,11 @@
             font-family: serif;
         }
         .main-content {
-            padding-top: 20px;
+            padding-top: 25px;
             margin-left: 200px;
             margin-right: 200px;
             line-height: 1.5;
-            font-size: 22px;
+            font-size: 18px;
         }
         .dropcap {
             font-size: 3em;
@@ -26,11 +26,6 @@
             vertical-align: top;
             float: left;
             margin-right: 10px;
-        }
-        .clearfix::after {
-            content: "";
-            clear: both;
-            display: table;
         }
     </style>
 </head>
@@ -43,7 +38,7 @@
             <li><a href="{{ site.baseurl }}/docs/pages/evolution/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.evolution.png" alt="Evolution"></a></li>
         </ul>
     </div>
-    <div class="main-content" class="clearfix">
+    <div class="main-content">
         {{ content }}
     </div>
 </body>
