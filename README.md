@@ -1,4 +1,4 @@
-![Thylacine Science]({{ site.baseurl }}/docs/images/header.thylacine_science.png)
+![Thylacine Science]({{ site.baseurl }}/docs/images/header.thylacine_science.news.png)
 
 # Resistance to Cane Toad Toxin Introduced in Cells of the Fat-Tailed Dunnart
 
