@@ -2,4 +2,4 @@
 layout: default
 ---
 
-![Natural History]({{ site.baseurl }}/docs/images/header.evolution.png)
+![Evolution]({{ site.baseurl }}/docs/images/header.evolution.png)
