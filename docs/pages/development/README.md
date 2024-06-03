@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="text-align: center;">
+<div id="header" style="text-align: center;">
   <img src="{{ site.baseurl }}/docs/images/header.development.png" alt="Centered Image">
 </div>
 
