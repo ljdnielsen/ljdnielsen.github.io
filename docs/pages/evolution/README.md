@@ -2,4 +2,6 @@
 layout: default
 ---
 
-![Evolution]({{ site.baseurl }}/docs/images/header.evolution.png)
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/docs/images/header.evolution.png" alt="Centered Image">
+</div>

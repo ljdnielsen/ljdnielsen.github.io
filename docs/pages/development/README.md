@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div style="text-align: left;">
-  <img src="{{ site.baseurl }}/docs/images/header.development.png" alt="Left-aligned Image">
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/docs/images/header.development.png" alt="Centered Image">
 </div>
 
 ## Measuring Gene Expression Changes Along the Internal Branches of Species Trees
