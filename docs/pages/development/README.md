@@ -6,7 +6,7 @@ layout: default
   <img src="{{ site.baseurl }}/docs/images/header.development.png" alt="Centered Image">
 </div>
 
-# Measuring Gene Expression Changes Along the Internal Branches of Species Trees
+## Measuring Gene Expression Changes Along the Internal Branches of Species Trees
 
 In a paper by scientists at the University of Lausanne and the Swiss Institute of Bioinformatics, [published in 2011 in the prominent journal Nature](https://doi.org/10.1038/nature10532), Brawand and colleagues investigated the transcription rate changes along branches of species trees build from contemporary samples of RNA-seq reads from nine mammalian species.
 
