@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="header" style="text-align: center;">
-  <img src="{{ site.baseurl }}/docs/images/header.development.png" alt="Centered Image" margin-top:50px>
+  <img src="{{ site.baseurl }}/docs/images/header.development.png" alt="Centered Image" style="margin-top: 50px;">
 </div>
 
 ## Measuring Gene Expression Changes Along the Internal Branches of Species Trees
