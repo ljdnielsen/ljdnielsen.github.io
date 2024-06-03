@@ -14,7 +14,6 @@ The researchers then identified orthologous genes of the 9 species, or subsets t
 
 To identify chromosomes undergoing significant expression changes compared to others, the authors compared the branch lengths of expression trees based on different chromosomes. They observed a significantly higher change in the expression of X chromosome-linked compared to autosomes on the branch leading from the common ancestor of all mammals, including egg-laying monotremes (such as the platypus), to the common ancestor of all therian mammals (marsupials and eutherians). Monotreme males have five X chromosomes, whereas therians have one. The observed expression change likely reflects the loss of gene dosage due to the reduction in the number of X chromosome-linked genes.[^1]
 
-
 [^1]: Brawand, D., Soumillon, M., Necsulea, A. *et al.* [The Evolution of Gene Expression Levels in Mammalian Organs](https://doi.org/10.1038/nature10532). *Nature* 478, 343-348 (2011). https://doi.org/10.1038/nature10532
 
 
