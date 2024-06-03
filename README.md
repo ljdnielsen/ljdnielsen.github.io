@@ -1,6 +1,6 @@
 ![Thylacine Science]({{ site.baseurl }}/docs/images/header.thylacine_science.news.png)
 
-# Resistance to Cane Toad Toxin Introduced in Cells of the Fat-Tailed Dunnart
+## Resistance to Cane Toad Toxin Introduced in Cells of the Fat-Tailed Dunnart
 
 <span class="dropcap">I</span>n 1935 cane toads (*Bufo marinus*) were brought to Australia from Hawaii, where they had been introduced from Puerto Rico. They were deployed to combat cane beetles in the expanding sugar cane fields of Queensland on Australia's northeast coast.[^1] The toads proliferated readily in fish-less ponds, spread northwest, and became a serious threat to carnivorous marsupials that would feed on them, oblivious to the deadly bufotoxin produced in glands of the stout amphibian.[^2] The toxin kills by inhibiting the function of N<sup>+</sup>/K<sup>+</sup>-ATPase membrane proteins, necessary for maintaining the electrical potential across nerve cells.[^3]
 
