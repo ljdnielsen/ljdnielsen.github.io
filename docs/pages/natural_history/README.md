@@ -6,7 +6,7 @@ layout: default
   <img src="{{ site.baseurl }}/docs/images/header.natural_history.png" alt="Centered Image" style="margin-top: 20px;">
 </div>
 
-## Scientists Infer Thylacine Behaviour from Bone and Teeth Structure
+## Scientists Infer the Behaviour of the Thylacine from Bone and Teeth Structure Ratios
 
 Based on models mapping the ratios of leg bones, particularly the femur to metatarsal length, with running speed, scientists Menna E. Jones and D. Michael Stoddart infered that the thylacine was a slow runner, similar to the Tasmanian devil. It's canines strength profile, measured as the ratio of canine strength in antero-posterior (front-to-back) and medio-lateral (side-to-side) direction, was similar to that of modern hyenas, and rarely fractured compared with the teach of quolls as measured by the ratio of observed to expected number of fractured teath in the sample collection.
 
