@@ -8,7 +8,7 @@ layout: default
 
 ## Scientists Measure Gene Expression Changes Along the Internal Branches of Species Trees
 
-In a paper by scientists at the University of Lausanne and the Swiss Institute of Bioinformatics, [published in 2011 in the prominent journal Nature](https://doi.org/10.1038/nature10532), Brawand and colleagues investigated the transcription rate changes along branches of species trees build from contemporary samples of RNA-seq reads from nine mammalian species.
+<span class="dropcap">I</span>n a paper by scientists at the University of Lausanne and the Swiss Institute of Bioinformatics, [published in 2011 in the prominent journal Nature](https://doi.org/10.1038/nature10532), Brawand and colleagues investigated the transcription rate changes along branches of species trees build from contemporary samples of RNA-seq reads from nine mammalian species.
 
 To initially improve the annotation of genes, the RNA-seq reads were mapped against the corresponding species' reference genomes. Because introns are separated from exons during normal pre-mRNA processing the reads mapped only to exons, which revealed where the gene splice sites are. This allowed for the identification of alternative splice sites, appearing as introns surrounded by exons of different expression rates, letting the authors make a more accurate description of the expressed genes.
 
