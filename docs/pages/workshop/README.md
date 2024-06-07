@@ -1,0 +1,11 @@
+## Transcription Factor Binding Affinity Linearly Correlates with the Number of Fingers in Mice
+
+The Shh gene is responsible for digit development through its expression in the Zone of Polarizing Activity region, in the developing limb bud, during embryonic development in mice and humans. It is controlled by an enhancer region called ZPA Regulatory Sequence (ZRS) which has multiple transcription factor binding sites. One of these transcription factor binding sites, ETS-A, is associated with known SNVs causing polydactyly (having more than five fingers) in humans.
+
+In a research paper published January 2024 in the prominent journal Nature, Emma Farley and colleagues measured the binding affinity of the ETS-1 to the binding sites of ZRS. They found that the pathogenic mutations causing polydactyly increase the binding affinity of ETS-1 to the binding site ETS-A. They then created alternative ETS-A mutant variants, different from the known SNVs causing polydactyly, but with the same increased binding affinity, and showed that they resulted in the same phenotypic change, establishing that it is the increased binding affinity of the ETS-A site that casuses the change in phenotype associated with the known mutations.
+
+To establish that the change in phenotype stems from an increased expression of shh in the affected tissues, the authors measured gene expression of affinity-enhanced mutants in cell-lines of limb cells. This was difficult to show suggesting that increased binding affinity might only have caused a slight increase in expression, that none-the-less was sufficient to drive the increased number of digits.
+
+The authors then went on to show that of all the SNVs known to cause phenotypic changes in humans, the majority are mutations that increase binding affinity of transcription factors to enhancers.[^1]
+
+[^1]: Lim, F., Solvason, J.J., Ryan, G.E. *et al.* [Affinity-optimizing enhancer variants disrupt development](https://doi.org/10.1038/s41586-023-06922-8). *Nature* __626__, 151–159 (2024). https://doi.org/10.1038/s41586-023-06922-8
