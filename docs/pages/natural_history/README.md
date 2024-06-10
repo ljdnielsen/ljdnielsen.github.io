@@ -6,7 +6,7 @@ layout: default
   <img src="{{ site.baseurl }}/docs/images/header.natural_history.png" alt="Centered Image" style="margin-top: 20px;">
 </div>
 
-## Scientists Infer the Behaviour of the Thylacine from Bone and Teeth Size and Strength Ratios
+## Scientists Infer the Behaviour of the Thylacine from Bone Size- and Teeth Strength Ratios
 
 <span class="dropcap">I</span>n a paper published in the Journal of Zoology, scientists Menna E. Jones and D. Michael Stoddart describe how they infered the running speed and prey-size range of the thylacine, by using bone or teeth ratio-to-trait models. A comparison of the ratio of the femur (thigh bone) to the metatarsal bone (the bone between the heel and the ball of the foot) of 4 thylacine skeletons with that of other mammalian predators, placed the thylacine with tasmanian devils and badgers in respect to running speed, indicating that the thylacine was a slow animal. It's canines strength profile, measured as the ratio of canine strength in antero-posterior (front-to-back) and medio-lateral (side-to-side) direction, was similar to that of modern hyenas, and rarely fractured compared with the teeth of quolls as measured by the ratio of the observed to expected number of fractured teeth in the sample collection.
 
