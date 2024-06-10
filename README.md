@@ -1,6 +1,6 @@
 
 <div id="header" style="text-align: center;">
-  <img src="{{ site.baseurl }}/docs/images/header.thylacine_science.news.png" alt="Centered Image" style="margin-top: 20px;">
+  <img src="{{ site.baseurl }}/docs/images/header.thylacine_science.news_right.png" alt="Centered Image" style="margin-top: 20px;">
 </div>
 
 ## Resistance to Cane Toad Toxin Introduced in Cells of the Fat-Tailed Dunnart
