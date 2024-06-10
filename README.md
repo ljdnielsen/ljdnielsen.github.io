@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <div id="header" style="text-align: center;">
   <img src="{{ site.baseurl }}/docs/images/header.thylacine_science.news.png" alt="Centered Image" style="margin-top: 20px;">
