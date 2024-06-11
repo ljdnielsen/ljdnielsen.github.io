@@ -4,27 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
     <style>
         #sidebar img {
             width: 140px;
-            background-image: url('{{ site.baseurl }}/docs/images/grainy_texture.png');
-            background-repeat: repeat;
-            background-size: auto;
-            background-color: #ffffff;
         }
         #sidebar li {
             padding-bottom: 10px;
-            background-image: url('{{ site.baseurl }}/docs/images/grainy_texture.png');
-            background-repeat: repeat;
-            background-size: auto;
-            background-color: #ffffff;
         }
         body {
             font-family: serif;
-            background-image: url('{{ site.baseurl }}/docs/images/grainy_texture.png');
-            background-repeat: repeat;
-            background-size: auto;
-            background-color: #ffffff;
         }
         .main-content {
             margin-right: 250px;
@@ -42,16 +31,16 @@
         }
     </style>
 </head>
-<body>
-    <div id="sidebar" style="float: left; width: 150px; height: 100vh; margin-left: 20px; padding: 40px; background-color: #ffffff;">
+<body class="grainy-background">
+    <div id="sidebar" class="grainy-background" style="float: left; width: 150px; height: 100vh; margin-left: 20px; padding: 40px; background-color: #ffffff;">
         <ul style="list-style: none; padding: 0;">
-            <li><a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/docs/images/homepage_icon.png" alt="Home" style="padding-bottom: 10px;"></a></li>
-            <li><a href="{{ site.baseurl }}/docs/pages/natural_history/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.natural_history.png" alt="Natural History"></a></li>
-            <li><a href="{{ site.baseurl }}/docs/pages/development/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.development.png" alt="Development"></a></li>
-            <li><a href="{{ site.baseurl }}/docs/pages/evolution/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.evolution.png" alt="Evolution"></a></li>
+            <li class="grainy-background"><a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/docs/images/homepage_icon.png" alt="Home" style="padding-bottom: 10px;"></a></li>
+            <li class="grainy-background"><a href="{{ site.baseurl }}/docs/pages/natural_history/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.natural_history.png" alt="Natural History"></a></li>
+            <li class="grainy-background"><a href="{{ site.baseurl }}/docs/pages/development/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.development.png" alt="Development"></a></li>
+            <li class="grainy-background"><a href="{{ site.baseurl }}/docs/pages/evolution/README"><img src="{{ site.baseurl }}/docs/images/side-bar_buttons2.evolution.png" alt="Evolution"></a></li>
         </ul>
     </div>
-    <div class="main-content">
+    <div class="main-content grainy-background">
         {{ content }}
     </div>
 </body>
